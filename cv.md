@@ -1,14 +1,17 @@
 # Olga Bogdan
 *Junior Frontend Developer*
+
 *************
 ## Contact information:
 * Location: Minsk, Belarus
 * Phone: +375 29 134-40-41
 * Email: <bgdnov@gmail.com>
 * GitHub: [Olgabgdn](https://github.com/Olgabgdn)
+
 *************
 ## About Me:
 Currently I work as a QA engineer. But more and more often I began to catch myself thinking that I wanted to program. I really think it's very interesting. And thanks to my skills of attentiveness and perseverance, I can achieve results. Through the courses I want to gain skills and knowledge for employment in a future company
+
 *************
 ## Skills:
 * HTML 5
@@ -17,6 +20,7 @@ Currently I work as a QA engineer. But more and more often I began to catch myse
 * Git, GitHub
 * VS Code
 * Postman
+
 *************
 ## Code example:
 ```
@@ -35,6 +39,7 @@ console.log(invert([1, -1, 6]))
 * JavaScript Manual on [learnjavascript.ru](learnjavascript.ru) (in progress)
 * Stepik "Postman" for tests
 ![Certificate](/image/photo1719492814.jpeg)
+
 *************
 ## Languages:
 * English - Intermediate/Upper-intermediate
