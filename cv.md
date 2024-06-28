@@ -34,7 +34,7 @@ console.log(invert([1, -1, 6]))
 * RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
 * JavaScript Manual on [learnjavascript.ru](learnjavascript.ru) (in progress)
 * Stepik "Postman" for tests
-![Certificate](/images/photo1719492814.jpeg)
+![Certificate](images/photo1719492814.jpeg)
 
 ## Languages:
 * English - Intermediate/Upper-intermediate
