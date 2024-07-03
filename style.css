@@ -1,3 +1,128 @@
 body {
+    width: 60%;
+    margin: 0 auto;
+    padding: 0;
+    font-family: 'Courier New', Courier, monospace;
+}
+.general {
     width: 100%;
+    background-color: #FEF7FD;
+    color: #4449F1;
+    }
+.navigation ul {
+    border-radius: 5px;
+    width: 100%;
+    height: 40px;
+    background-color: #4449F1;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    
+}
+.navigation_link {
+    color: #FEF7FD;
+    text-decoration: none;
+}
+.all_bloc {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    column-gap: 10px;
+}
+.bloc1 {
+    width: 40%;
+    background-color: #d5e0fb;
+    display: flex;
+    flex-direction: column;
+}
+.bloc2 {
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+}
+.photo {
+    width: 100%;
+    height: 25%;
+}
+.contact_information {
+    background-color: #4449F1;
+    color: #FEF7FD;
+    padding-left: 20px;
+    margin: 0;
+}
+.page-title {
+    margin: 115px 80px 115px 60px;
+}
+.main_title {
+    margin: 0;
+    padding: 0;
+    font-size: 50px;
+    line-height: 50px;
+    font-weight: 600;
+    
+}
+.section-title {
+    border-radius: 10px;
+    background-color: #dadbfc;
+    padding-left: 60px;
+    margin: 20px;
+}
+.about_me p {
+    margin: 0 60px 0 60px;
+    padding: 0;
+    font-size: 16px;
+    line-height: 24px;
+}
+.skills ul {
+    margin: 0 60px 0 60px;
+    padding: 0;
+    font-size: 16px;
+    line-height: 24px;
+    padding-left: 20px;
+}
+.key_strengths ul {
+    margin: 0 60px 0 60px;
+    padding: 0;
+    font-size: 16px;
+    line-height: 24px;
+    padding-left: 20px;
+}
+.courses ul {
+    margin: 0 60px 0 60px;
+    padding: 0;
+    font-size: 16px;
+    line-height: 24px;
+    padding-left: 20px;
+}
+.languages ul {
+    margin: 0 60px 0 60px;
+    padding: 0;
+    font-size: 16px;
+    line-height: 24px;
+    padding-left: 20px;
+}
+.footer {
+    display: flex;
+    background-color: #4449F1;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+    font-weight: 600px;
+    justify-content:space-around;
+    align-items: center;
+    padding: 10px 10px 10px 10px;
+
+}
+.footer__github {
+    width: 110px;
+    vertical-align: text-top;
+    text-decoration: none;
+    padding: 10px 10px 10px 10px;
+}
+.year {
+    width: 110px;
+}
+.image_footer {
+    width: 110px;
+    height: 100px;
 }
