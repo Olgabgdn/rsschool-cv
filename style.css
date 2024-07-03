@@ -9,7 +9,7 @@ body {
     background-color: #FEF7FD;
     color: #4449F1;
     }
-.navigation {
+.navigation ul {
     border-radius: 5px;
     width: 100%;
     height: 40px;
