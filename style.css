@@ -30,7 +30,6 @@ body {
     justify-content: space-between;
     column-gap: 10px;
 }
-
 .bloc1 {
     width: 40%;
     background-color: #d5e0fb;
@@ -52,7 +51,6 @@ body {
     padding-left: 20px;
     margin: 0;
 }
-    
 .page-title {
     margin: 115px 80px 115px 60px;
 }
@@ -70,7 +68,6 @@ body {
     padding-left: 60px;
     margin: 20px;
 }
-
 .about_me p {
     margin: 0 60px 0 60px;
     padding: 0;
@@ -105,7 +102,6 @@ body {
     line-height: 24px;
     padding-left: 20px;
 }
-
 .footer {
     display: flex;
     background-color: #4449F1;
